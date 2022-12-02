@@ -1,0 +1,33 @@
+{
+  "First Name": "Julie Mae",
+  "Last Name": "Fuertes",
+  "Age": 21,
+  "Address": "Locsin Ville, Jaro, Iloilo City",
+  "Contact": "juliemae.fuertes-18@cpu.edu.ph",
+  "friend_list": [
+    {
+      "Name": "Jeff Conrad Bacolado",
+      "Age": 21,
+      "Address": "Savannah, Iloilo City",
+      "Likes": "Videogames, Cold weather, Chocolate",
+      "Dislikes": "Hot Weather, Mondays, Dust",
+      "Feeling": "Sleepy"
+    },
+    {
+      "Name": "Dale Arcilla",
+      "Age": 21,
+      "Address": "Jaro, Iloilo",
+      "Likes": "Gaming, Sleep, Ice Coffee",
+      "Dislikes": "Boring days",
+      "Feeling": "Tired"
+    },
+    {
+      "Name": "Ralfh Lourenze Juelar",
+      "Age": 20,
+      "Address": "Brgy,San Isidro Iloilo",
+      "Likes": "KPOP",
+      "Dislikes": "School",
+      "Feeling": "Downhearted"
+    }
+  ]
+}
